@@ -24,4 +24,4 @@ The project processes the **Energy and Water Data Disclosure for Local Law 84**,
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/nyc-building-energy-analysis.git](https://github.com/YOUR_USERNAME/nyc-building-energy-analysis.git)
+   git clone [https://github.com/harishchaudhary-dev/nyc-building-energy-analysis.git](https://github.com/harishchaudhary-dev/nyc-building-energy-analysis.git)
